@@ -5,7 +5,7 @@ The program is not perfect
 """
 import math
 
-shape=input("What shape is the face? (triangle, rectangle, trapeziod)")
+shape=input("What is the shape of the roof face? (triangle, rectangle, trapeziod)")
 
 #this code calculates the area of a triangle
 
