@@ -1,2 +1,2 @@
-# Roofing-Calculations-Python\
+# Solar Panel Estimator-Python\
 # Project Story: I began by conducting solar site surveys which involves measuring the customer's roof in order to calculate how many PV modules (solar panels) will fit. This was difficult because the calculations were subject to user error and involved various area formulas. I realized that I could develop a python program to give an estimate to how many panels will fit on the roof face. I hope this helps other site surveyors with their panel calculations. 
